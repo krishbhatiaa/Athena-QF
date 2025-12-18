@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# H2
+*.mv.db
+*.trace.db
+
+# OS
+.DS_Store
+Thumbs.db
+
